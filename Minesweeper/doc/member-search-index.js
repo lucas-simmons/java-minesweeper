@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"edu.unca.csci202","c":"Cell","l":"Cell(String)","u":"%3Cinit%3E(java.lang.String)"},{"p":"edu.unca.csci202","c":"Cell","l":"getDisplay()"},{"p":"edu.unca.csci202","c":"Cell","l":"mineCheck()"},{"p":"edu.unca.csci202","c":"Cell","l":"setDisplay(String)","u":"setDisplay(java.lang.String)"}];updateSearchResults();
